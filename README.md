@@ -1,7 +1,7 @@
 # PSU-Robotics-2023-Maze-Solver-
 This repository includes CAD and the necessary code to build a maze solving robot using basic Arduino hardware. It received 1st place at the Fall 2024 PSU Robotics Challenge 
 
-This robot competed under the name "I Don't Care". It's design can be accredited to Jeremiah Ondrasik, Teagan Sharp (tjs6866@psu.edu), and Sydney Graver (sjg6347@psu.edu).
+This robot competed under the name "I Don't Care". It's design can be accredited to Jeremiah Ondrasik (jjo5541@psu.edu), Teagan Sharp (tjs6866@psu.edu), and Sydney Graver (sjg6347@psu.edu).
 
 The CAD includes 7 SolidWorks part files and 1 assembly. To have the assembly file work correctly the files will need to properly selected when opening the file. For the final design the right Sonic sensor was not used as the Arduino didn't have enough digital pins. Also the motors, wheels and batteries weren't CADed due to time constraints If there are any issues feel free to contact Jeremiah as he did the CAD design.
 
